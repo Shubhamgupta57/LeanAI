@@ -1,22 +1,16 @@
 Onboarding Guide: Welcome to Leanafy !
 
-
 Leanafy
 Welcome to Leanafy! We're thrilled to have you. Our onboarding guide will be your trusted companion, offering all the help you need to get started and more. Let's embark on this journey together!
+
 
 
 Step 1: Logging into the Leanafy 
 To access the Leanafy platform, you will need to log in with your master credentials which will be provided to you through email via the Leanafy Team. Follow these steps to log in:
 
-https://scribehow.com/shared/Central_Logging_into_Leanafy__tmbS6i6vTyCss8BNQUD2rw
-
 If you are using an iOS device, please refer to the scribe below to install Leanafy on your device: 
 
-https://scribehow.com/shared/Installing_Leanafy_on_iOS_devices__0AJe7P0RR1-dED1BgBPfPg
-
 If you are using an Android device, please refer to the scribe below to install Leanafy on your device: 
-
-https://scribehow.com/shared/Installing_Leanafy_on_Android_devices__0hoq3IKcSsWsoo49TVaLug
 
 Step 2: Setting up Access Profiles 
 Now the first after logging in would be to add your team to Leanafy. But before that, you should define the different roles that you have in your warehouse and decide on what permission these roles will require. This mapping of Roles with permission is called "Access profile" in Leanafy. You will be able to attach this access profile with multiple users to give them the same level of permission for the same role. 
