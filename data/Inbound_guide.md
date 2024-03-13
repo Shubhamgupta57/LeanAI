@@ -1,7 +1,6 @@
 Inbound Operations Guide! 🚚✨
 
 
-
 Leanafywms
 In your warehouse operations, the inbound process is a critical component that sets the stage for efficient order fulfilment. At Leanafy, we understand the significance of a well-optimized inbound operation, where the primary focus is on reducing workload and maximizing productivity. 
 
