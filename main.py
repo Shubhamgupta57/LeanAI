@@ -30,7 +30,7 @@ try:
                 continue  # Skip empty queries
             # Obtain the response from the query engine
             response = query_engine.query(user_query)
-            top_response = response.get_top_response()  # Get the most relevant response
+            top_response = response.get_response()  # Get the most relevant response
             confidence = top_response.confidence  # Extract the confidence level
             # Check the confidence level of the top response
             if confidence < 0.8:  # Adjusted to 80% confidence threshold
